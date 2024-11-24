@@ -1,0 +1,84 @@
+{
+  "recipes": [
+    {
+      "id": "d3a3",
+      "name": "Classic Margherita Pizza",
+      "image": "https://cdn.dummyjson.com/recipe-images/1.webp",
+      "preTime": "2hr",
+      "servings": "4",
+      "foodType": "veg",
+      "ingredients": "\"Pizza dough\",\n\"Tomato sauce\",\n \"Fresh mozzarella cheese\",\n\"Fresh basil leaves\",\n\"Olive oil\",\n \"Salt and pepper to taste\"",
+      "preparation": "\"Preheat the oven to 475°F (245°C).\",\n\"Roll out the pizza dough and spread tomato sauce evenly.\",\n\"Top with slices of fresh mozzarella and fresh basil leaves.\",\n\"Drizzle with olive oil and season with salt and pepper.\",\n\"Bake in the preheated oven for 12-15 minutes or until the crust is golden brown.\""
+    },
+    {
+      "id": "5280",
+      "name": "Chicken Alfredo Pasta",
+      "image": "https://cdn.dummyjson.com/recipe-images/4.webp",
+      "preTime": "15",
+      "servings": "4",
+      "foodType": "non-veg",
+      "ingredients": "\"Fettuccine pasta\",\n\"Chicken breast, sliced\",\n\"Heavy cream\",\n\"Parmesan cheese, grated\",\n\"Garlic, minced\",\n\"Butter\",\n\"Salt and pepper to taste\",\n\"Fresh parsley for garnish\"",
+      "preparation": "\"Cook fettuccine pasta according to package instructions.\",\n\"In a pan, sauté sliced chicken in butter until fully cooked.\",\n\"Add minced garlic and cook until fragrant.\",\n\"Pour in heavy cream and grated Parmesan cheese. Stir until the cheese is melted.\",\n\"Season with salt and pepper to taste.\",\n\"Combine the Alfredo sauce with cooked pasta.\",\n\"Garnish with fresh parsley before serving.\""
+    },
+    {
+      "id": "0075",
+      "name": "omato Basil Bruschetta",
+      "image": "https://cdn.dummyjson.com/recipe-images/7.webp",
+      "preTime": "15",
+      "servings": "6",
+      "foodType": 0,
+      "ingredients": "\"Baguette, sliced\",\n\"Tomatoes, diced\",\n\"Fresh basil, chopped\",\n\"Garlic cloves, minced\",\n\"Balsamic glaze\",\n\"Olive oil\",\n\"Salt and pepper to taste\"",
+      "preparation": "\"Preheat the oven to 375°F (190°C).\",\n\"Place baguette slices on a baking sheet and toast in the oven until golden brown.\",\n\"In a bowl, combine diced tomatoes, chopped fresh basil, minced garlic, and a drizzle of olive oil.\",\n\"Season with salt and pepper to taste.\",\n\"Top each toasted baguette slice with the tomato-basil mixture.\",\n\"Drizzle with balsamic glaze before serving.\""
+    },
+    {
+      "id": "8fc6",
+      "name": "Beef and Broccoli Stir-Fry",
+      "image": "https://cdn.dummyjson.com/recipe-images/8.webp",
+      "preTime": "20",
+      "servings": "4",
+      "foodType": "non-veg",
+      "ingredients": "\"Beef sirloin, thinly sliced\",\n\"Broccoli florets\",\n\"Soy sauce\",\n\"Oyster sauce\",\n\"Sesame oil\",\n\"Garlic, minced\",\n\"Ginger, minced\",\n\"Cornstarch\",\n\"Cooked white rice for serving\"",
+      "preparation": "\"In a bowl, mix soy sauce, oyster sauce, sesame oil, and cornstarch to create the sauce.\",\n\"In a wok, stir-fry thinly sliced beef until browned. Remove from the wok.\",\n\"Stir-fry broccoli florets, minced garlic, and minced ginger in the same wok.\",\n\"Add the cooked beef back to the wok and pour the sauce over the mixture.\",\n\"Stir until everything is coated and heated through.\",\n\"Serve over cooked white rice.\""
+    },
+    {
+      "id": "05cb",
+      "name": "Caprese Salad",
+      "image": "https://cdn.dummyjson.com/recipe-images/9.webp",
+      "preTime": "10",
+      "servings": "2",
+      "foodType": "veg",
+      "ingredients": "\"Tomatoes, sliced\",\n\"Fresh mozzarella cheese, sliced\",\n\"Fresh basil leaves\",\n\"Balsamic glaze\",\n\"Extra virgin olive oil\",\n\"Salt and pepper to taste\"",
+      "preparation": "\"Arrange alternating slices of tomatoes and fresh mozzarella on a serving platter.\",\n\"Tuck fresh basil leaves between the slices.\",\n\"Drizzle with balsamic glaze and extra virgin olive oil.\",\n\"Season with salt and pepper to taste.\",\n\"Serve immediately as a refreshing salad.\""
+    },
+    {
+      "id": "3c10",
+      "name": "Chicken Biryani",
+      "image": "https://cdn.dummyjson.com/recipe-images/11.webp",
+      "preTime": "30",
+      "servings": "6",
+      "foodType": "non-veg",
+      "ingredients": "\"Basmati rice\",\n\"Chicken, cut into pieces\",\n\"Onions, thinly sliced\",\n\"Tomatoes, chopped\",\n\"Yogurt\",\n\"Ginger-garlic paste\",\n\"Biryani masala\",\n\"Green chilies, sliced\",\n\"Fresh coriander leaves\",\n\"Mint leaves\",\n\"Ghee\",\n\"Salt to taste\"",
+      "preparation": "\"Marinate chicken with yogurt, ginger-garlic paste, biryani masala, and salt.\",\n\"In a pot, sauté sliced onions until golden brown. Remove half for later use.\",\n\"Layer marinated chicken, chopped tomatoes, half of the fried onions, and rice in the pot.\",\n\"Top with ghee, green chilies, fresh coriander leaves, mint leaves, and the remaining fried onions.\",\n\"Cover and cook on low heat until the rice is fully cooked and aromatic.\",\n\"Serve hot, garnished with additional coriander and mint leaves.\""
+    },
+    {
+      "id": "c721",
+      "name": "Chicken Karahi",
+      "image": "https://cdn.dummyjson.com/recipe-images/12.webp",
+      "preTime": "20",
+      "servings": "4",
+      "foodType": "non-veg",
+      "ingredients": "\"Chicken, cut into pieces\",\n\"Tomatoes, chopped\",\n\"Green chilies, sliced\",\n\"Ginger, julienned\",\n\"Garlic, minced\",\n\"Coriander powder\",\n\"Cumin powder\",\n\"Red chili powder\",\n\"Garam masala\",\n\"Cooking oil\",\n\"Fresh coriander leaves\",\n\"Salt to taste\"",
+      "preparation": "\"In a wok (karahi), heat cooking oil and sauté minced garlic until golden brown.\",\n\"Add chicken pieces and cook until browned on all sides.\",\n\"Add chopped tomatoes, green chilies, ginger, and spices. Cook until tomatoes are soft.\",\n\"Cover and simmer until the chicken is tender and the oil separates from the masala.\",\n\"Garnish with fresh coriander leaves and serve hot with naan or rice.\""
+    },
+    {
+      "id": "ee19",
+      "name": "Aloo Keema",
+      "image": "https://cdn.dummyjson.com/recipe-images/13.webp",
+      "preTime": "25",
+      "servings": "5",
+      "foodType": "non-veg",
+      "ingredients": "\"Ground beef\",\n\"Potatoes, peeled and diced\",\n\"Onions, finely chopped\",\n\"Tomatoes, chopped\",\n\"Ginger-garlic paste\",\n\"Cumin powder\",\n\"Coriander powder\",\n\"Turmeric powder\",\n\"Red chili powder\",\n\"Cooking oil\",\n\"Fresh coriander leaves\",\n\"Salt to taste\"",
+      "preparation": "\"In a pan, heat cooking oil and sauté chopped onions until golden brown.\",\n\"Add ginger-garlic paste and sauté until fragrant.\",\n\"Add ground beef and cook until browned. Drain excess oil if needed.\",\n\"Add diced potatoes, chopped tomatoes, and spices. Mix well.\",\n\"Cover and simmer until the potatoes are tender and the masala is well-cooked.\",\n\"Garnish with fresh coriander leaves and serve hot with naan or rice.\""
+    }
+  ]
+}
